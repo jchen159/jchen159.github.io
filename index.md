@@ -4,7 +4,7 @@ This is my home page! My name is Jimmy Chen and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/jchen159.
+My GitHub page is http://github.com/jchen159
 
 ### CPSC 120
 
