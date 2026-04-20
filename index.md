@@ -18,8 +18,8 @@ My GitHub page is http://github.com/jchen159
 * Lab 6
 
     Lab 6 part 2 was one of my favorite labs. As a huge gambler myself, I love working with casino games and as a huge blackjack enjoyer, coding something
-    for blackjack was a fun experience for me. Also during the lab I was able to work with for / else statements which was complicated for the first time
-    but as i continued working on the lab, the for / elses became much easier to use into my codes.
+    for blackjack was a fun experience for me. Also during the lab I was able to work with if/else statements which was complicated for the first time
+    but as i continued working on the lab, the if/else became much easier to use into my codes.
 
 * Lab 5
 
