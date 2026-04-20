@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Jimmy Chen and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Teahing Mathematics.
+This is my home page! My name is Jimmy Chen and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Teaching Mathematics.
 
 ## Computer Science Projects
 
